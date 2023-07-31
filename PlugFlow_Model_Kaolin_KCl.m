@@ -21,7 +21,7 @@ kin.n = n_input; kin.m = m_input;
 % A_start, E_A_start, n_start, m_start
 
 %% Adding the KOH adsorption
-% latest values
+% old values used in the paper, for updated ones see my dissertation
 kinKOH.A = 11917.0341; kinKOH.Ea =55896.15;
 kinKOH.n = -2.62866; kinKOH.m = 1.3749;
 
